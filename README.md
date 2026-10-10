@@ -47,6 +47,16 @@ As imagens vêm de protótipo e de dados **fictícios**, em baixa resolução.
 
 Em desenvolvimento ativo, por verticais. Este material descreve a engenharia, e nem todos os recursos do produto estão concluídos.
 
+## Propriedade intelectual
+
+O Zurvo-app foi depositado no **Instituto Nacional da Propriedade Industrial (INPI)** como programa de computador (Lei nº 9.609/1998):
+
+- **Processo INPI:** `512026009066-0` (depositado em 10/10/2026)
+- **Titular:** Fábio Anderson Corrêa Bentes
+- **Hash SHA-512 do código-fonte registrado (v1.0.0):** `91db0367270f22f0a1005182884dd7b0f53fa67b71b4541a4ae791fb6ccd68a7eba66fba25b9c4afec07c138fca7f0d03e5a35b5a177d10f4e89d774f879345b`
+
+O código-fonte é privado e não foi enviado ao INPI, que guarda apenas o hash. A consulta pública do processo é feita em [busca.inpi.gov.br](https://busca.inpi.gov.br/pePI/), em Programa de Computador.
+
 ---
 
 © 2026 Fábio A. C. Bentes. Todos os direitos reservados. Veja [LICENSE](LICENSE).
